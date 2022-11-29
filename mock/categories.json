@@ -1,0 +1,114 @@
+[
+  {
+    "name": "праймеры",
+    "tree": "/makeup/face/face_primers"
+  },
+  {
+    "name": "тональные средства",
+    "tree": "/makeup/face/face_tones"
+  },
+  {
+    "name": "корректоры/консилеры",
+    "tree": "/makeup/face/face_concealers"
+  },
+  {
+    "name": "пудра",
+    "tree": "/makeup/face/face_powders"
+  },
+  {
+    "name": "румяна",
+    "tree": "/makeup/face/face_blushers"
+  },
+  {
+    "name": "скульптор/хайлайтер",
+    "tree": "/makeup/face/face_highlighters"
+  },
+  {
+    "name": "фиксаторы (для макияжа)",
+    "tree": "/makeup/face/face_fixators"
+  },
+  {
+    "name": "Кисти для лица/спонжи",
+    "tree": "/makeup/face/face_brushes"
+  },
+  {
+    "name": "гели для бровей",
+    "tree": "/makeup/brows/brows_gels"
+  },
+  {
+    "name": "тени для бровей",
+    "tree": "/makeup/brows/brows_shadows"
+  },
+  {
+    "name": "карандаши  и маркеры",
+    "tree": "/makeup/brows/brows_pencils"
+  },
+  {
+    "name": "кисти для бровей",
+    "tree": "/makeup/brows/brows_brushes"
+  },
+  {
+    "name": "лаки для ногтей",
+    "tree": "/makeup/nails/nails_polish"
+  },
+  {
+    "name": "Базы и покрытия для ногтей",
+    "tree": "/makeup/nails/nails_bases"
+  },
+  {
+    "name": "Уход за ногтями",
+    "tree": "/makeup/nails/nails_care"
+  },
+  {
+    "name": "Аксессуары для маникюра",
+    "tree": "/makeup/nails/nails_accessories"
+  },
+  {
+    "name": "тушь для ресниц",
+    "tree": "/makeup/eyes/eyes_mascara"
+  },
+  {
+    "name": "основа под тени",
+    "tree": "/makeup/eyes/eyes_bases"
+  },
+  {
+    "name": "тени для век",
+    "tree": "/makeup/eyes/eyes_shadows"
+  },
+  {
+    "name": "карандаши  и подводки",
+    "tree": "/makeup/eyes/eyes_pencils"
+  },
+  {
+    "name": "кисти для глаз",
+    "tree": "/makeup/eyes/eyes_brushes"
+  },
+  {
+    "name": "помады",
+    "tree": "/makeup/lips/lips_lipsticks"
+  },
+  {
+    "name": "блески и тинты",
+    "tree": "/makeup/lips/lips_tints"
+  },
+  {
+    "name": "карандаши для губ",
+    "tree": "/makeup/lips/lips_pencils"
+  },
+  {
+    "name": "бальзамы для губ",
+    "tree": "/makeup/lips/lips_balms"
+  },
+  {
+    "name": "кисти для губ",
+    "tree": "/makeup/lips/lips_brushes"
+  },
+  {
+    "name": "кисти/спонжи",
+    "tree": "/makeup/accessories/accessories_brushes"
+  },
+  {
+    "name": "другое",
+    "tree": "/makeup/accessories/accessories_other"
+  }
+]
